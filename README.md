@@ -7,7 +7,7 @@ O padrão Factory Method é utilizado na criação da instância de Venda. A fun
 
 
 
-1 - pip install requests
-2 - pip install flask
-3 - pip install sqlalchemy
-4 - pip install waitress
+1 - pip install requests /
+2 - pip install flask /
+3 - pip install sqlalchemy /
+4 - pip install waitress /
